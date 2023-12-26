@@ -1,0 +1,9 @@
+*{
+	background-color: black;
+	color: white;
+}
+
+#app{
+	height: 96vh;
+	width: 100%;
+}
